@@ -60,7 +60,7 @@ R2 Score Test 0.8985898332094335
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@GautamPoddar18] - feel free to contact me!
 
 
 <!-- Optional -->
